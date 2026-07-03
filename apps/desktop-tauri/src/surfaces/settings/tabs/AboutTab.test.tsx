@@ -64,6 +64,7 @@ const settings: SettingsSnapshot = {
   uiLanguage: "english",
   theme: "dark",
   windowScalePercent: 125,
+  trayScalePercent: 100,
   claudeAvoidKeychainPrompts: true,
   disableKeychainAccess: false,
   providerMetrics: {},
